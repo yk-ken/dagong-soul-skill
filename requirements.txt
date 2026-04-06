@@ -1,0 +1,3 @@
+# 打工魂·不灭.skill — Python 依赖
+# 目前所有工具仅使用 Python 标准库，无需额外安装
+# Python 3.9+
