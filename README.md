@@ -34,7 +34,7 @@
 - **[前任.skill](https://github.com/therealXiaomanChu/ex-skill)** — 把前任蒸馏成 AI Skill
 - **打工魂·不灭.skill** — 把你自己蒸馏成维权顾问
 
-同事跑了用同事.skill，前任跑了用前任.skill，**打工魂不灭用打工魂.skill**。
+同事跑了用同事.skill，前任跑了用前任.skill，**HR 劝退离职用 打工魂·不灭.skill**。
 
 ---
 

@@ -34,7 +34,7 @@ and distill it into an **AI legal advisor**. It's your evidence vault, and your 
 - **[ex.skill](https://github.com/therealXiaomanChu/ex-skill)** — Distill an ex-partner into an AI Skill
 - **dagong-soul.skill** — Distill yourself into a legal rights advisor
 
-Colleague left? Use colleague.skill. Ex left? Use ex.skill. **Working soul unextinguished? Use dagong-soul.skill**.
+Colleague left? Use colleague.skill. Ex left? Use ex.skill. **HR pushing you to resign? Use dagong-soul.skill**.
 
 ---
 
