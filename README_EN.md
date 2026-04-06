@@ -2,7 +2,9 @@
 
 # dagong-soul.skill
 
-> *"Keep your working soul alive."*
+> *When HR says "you're not a fit," you don't think of labor laws — you think of that screen still glowing at 2 AM.*
+>
+> *Keep your working soul alive.*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)

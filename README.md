@@ -2,7 +2,9 @@
 
 # 打工魂·不灭.skill
 
-> *"留下你的打工魂。"*
+> *当 HR 说出"你不合适"的那一刻，你想起的不是法条，是凌晨两点还亮着的屏幕。*
+>
+> *留下你的打工魂。*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
